@@ -1,0 +1,12 @@
+{
+  "id": "vitalk.quotes",
+  "name": "金句",
+  "description": "收藏历史记录里值得重读的表达。卸载后，已收藏的句子仍留在本机。",
+  "version": "1.0.0",
+  "sdkVersion": 1,
+  "permissions": [],
+  "page": {
+    "title": "金句",
+    "layout": "full"
+  }
+}
